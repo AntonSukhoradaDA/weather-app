@@ -15,8 +15,6 @@ Weather App by entering the location using [Open Weather Map API](https://openwe
 - [**src/pages**](src/pages): Contains the main pages of the application.
 - [**src/theme**](src/theme): Holds the styling and theming configurations for the application.
 - [**public**](public): Contains the public assets and the entry HTML file for the application.
-- [**public/assets**](public/assets): Stores additional assets used in the application.
-- [**public/assets/icon**](public/assets/icon): Contains icons used in the application.
 
 ## 🚀 Run Locally
 1. Clone the weatherApp repository:
